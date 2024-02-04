@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development.
 - 💞️"Turning pixels into magic"
 - ⚡ Frontend enthusiast with a passion for clean code and captivating user experiences.Let's build something beautiful together🚀"
-- 📫 How to reach me---richardtatapudi@gmail.com
+- 📫 How to reach me--- richardtatapudi@gmail.com
 - ✨ richardtatapudi.ccbp.tech
 - 😄 Pronouns: Richie.
 - 
