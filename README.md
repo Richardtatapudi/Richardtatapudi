@@ -4,7 +4,7 @@
 - 💞️"Turning pixels into magic"
 - ⚡ Frontend enthusiast with a passion for clean code and captivating user experiences.Let's build something beautiful together🚀"
 - 📫 How to reach me--- richardtatapudi@gmail.com
-- ✨ portfolio website--- richardtatapudi.ccbp.tech
+- ✨ portfolio website--- @richardtatapudi.ccbp.tech
 - 😄 Pronouns: Richie.
 - 
 <!---
